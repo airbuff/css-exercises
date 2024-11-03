@@ -1,0 +1,15 @@
+body {
+    font-family:
+        Helvetics,
+        Times New Roman,
+        sans-serif;
+}
+
+#First {
+    color: white;
+    background-color: Black;
+}
+
+#Second {
+    background-color: yellow;
+}
